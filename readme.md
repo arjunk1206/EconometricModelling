@@ -10,7 +10,6 @@
   
 - ### Assignment 3: Time Series Data
 
-  “Co-movement of commodity price returns”
-
+  Exchange Rate Determination, univariate time series.
   
 
