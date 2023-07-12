@@ -1,5 +1,16 @@
-Contains Assignments on Pooled Cross Section and Panel Data Modelling
-Assignment 1: Pooled Cross Section
-Assignment 2: Panel Data
-Assignment 3: Time Series Data
+# Assignment Descriptions
+
+- ### Assignment 1: Pooled Cross Section
+  
+  “Determinants of Health Expenditure in Countries”
+  
+- ### Assignment 2: Panel Data
+  
+  “The Effect of the World Trade Organization on Trade, a Gravity Model Analysis”
+  
+- ### Assignment 3: Time Series Data
+
+  “Co-movement of commodity price returns”
+
+  
 
